@@ -5,8 +5,8 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
-  background-repeat: no-repeat;
+  background-image: url("assets\img\foto_mio.png");
+  background-position: center;
   background-size: cover;
   background-position: left;
 }
